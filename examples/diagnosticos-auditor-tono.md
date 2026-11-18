@@ -1,6 +1,6 @@
-# Ejemplos de Diagnóstico del Auditor de Tono de Voz
+# Resultados reales de la Gema Auditor de Tono de Voz
 
-Estos ejemplos funcionan como **few-shot** para calibrar el modelo (técnica de few-shot prompting).
+Estos son **outputs reales** generados por la Gema Auditor al evaluar textos.
 
 ---
 

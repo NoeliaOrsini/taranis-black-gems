@@ -2,7 +2,7 @@
 **Challenge One G11 — AI for Business**  
 **Ruta 2: IA para Marketing y Contenidos**
 
-Repositorio privado con todos los entregables del challenge aplicado a **Taranis Black** (mobiliario corporativo de ergonomía activa – líneas ErgoPro, SmartDesk y Silence).
+Repositorio con todos los entregables del challenge aplicado a **Taranis Black** (mobiliario corporativo de ergonomía activa – líneas ErgoPro, SmartDesk y Silence).
 
 ---
 
@@ -29,11 +29,11 @@ Repositorio privado con todos los entregables del challenge aplicado a **Taranis
    - `docs/taranis_black_briefing_de_marca_es_txt.txt` → Briefing de Marca Corporativo v1.0  
 
    Estos dos documentos son la **fuente de verdad (RAG)** que alimenta a todas las Gems.  
-   En el Manual de Tono se usó la técnica de **few-shot prompting** (ejemplos de “Antes / Después” y diagnósticos positivos/negativos) para guiar al modelo.
+   En el Manual de Tono se usó la técnica de **few-shot prompting** (ejemplos de “Antes / Después”) para guiar al modelo.
 
 3. **Se configuraron las 4 Gems** con los prompts de sistema (carpeta `prompts/`).
 
-4. **Se generaron ejemplos reales** (carpeta `examples/`) y assets visuales (carpeta `assets/`).
+4. **Se generaron ejemplos reales** de uso de las Gems (carpeta `examples/`) y assets visuales (carpeta `assets/`).
 
 ---
 
@@ -61,7 +61,7 @@ flowchart TD
 
 | # | Agente | Función principal | Archivo de prompt | Enlace a la Gema |
 |---|--------|-------------------|-------------------|------------------|
-| 1 | **Auditor de Identidad Verbal** | Evalúa borradores (1-10), detecta palabras prohibidas, reescribe en tono Taranis. Usa few-shot. | `prompts/auditor-de-tono-de-voz.md` | [Abrir Gema](https://gemini.google.com/gem/1mgUNS7Rsu6Oj_IeBkj4USKk39R5wjgn6?usp=sharing) |
+| 1 | **Auditor de Identidad Verbal** | Evalúa borradores (1-10), detecta palabras prohibidas, reescribe en tono Taranis. | `prompts/auditor-de-tono-de-voz.md` | [Abrir Gema](https://gemini.google.com/gem/1mgUNS7Rsu6Oj_IeBkj4USKk39R5wjgn6?usp=sharing) |
 | 2 | **Multiplicador de Contenido Semilla** | Transforma 1 contenido semilla → formatos listos (Blog, Email, LinkedIn, Newsletter, Carrusel, TikTok) | `prompts/multiplicador-de-contenido.md` | [Abrir Gema](https://gemini.google.com/gem/1lh6k7eX1xQh4-m-gcddIqn_ofa93MVXP?usp=sharing) |
 | 3 | **Estratega SEO & Campañas** | Investigación real en Google (tendencias + PAA) + estructuras SEO. **Doble uso**: Mode 3 genera el calendario editorial completo. | `prompts/seo-estrategico.md` | [Abrir Gema](https://gemini.google.com/gem/18XQNusWRCaE35wQVHqIdaK1CyIRkGaFn?usp=sharing) |
 | 4 | **Director Creativo Visual** | Fichas de dirección de arte + prompts técnicos en inglés para generación de imágenes | `prompts/director-creativo.md` | [Abrir Gema](https://gemini.google.com/gem/1hw6INvrdKpGI1MkEZKgBzumH-I3k60kN?usp=sharing) |
@@ -89,24 +89,28 @@ taranis-black-gems/
 ├── examples/
 │   ├── contenido-semilla.md
 │   ├── adaptaciones-multiplicador.md
-│   ├── diagnosticos-auditor-tono.md          ← Ejemplos few-shot (+/-)
-│   └── calendario-editorial-mensual.md       ← Salida del Modo 3 del SEO
+│   ├── diagnosticos-auditor-tono.md              ← Resultados reales de la Gema Auditor
+│   ├── calendario-editorial-mensual.md           ← Salida del Modo 3 del SEO
+│   └── prompts-imagenes-director-creativo.md     ← Fichas + prompts técnicos de las 3 imágenes
 ├── architecture/
 │   └── diagrama-flujo.md
-└── assets/                                   ← Arrastrá aquí las imágenes de producto
+└── assets/                                       ← Arrastrá aquí las imágenes de producto
 ```
 
 ---
 
 ## 🖼️ Assets (imágenes)
 
-Sí, **arrastrá las imágenes** a la carpeta `assets/` (desde la web de GitHub o con `git add`).
+**Arrastrá las imágenes** a la carpeta `assets/` (desde la web de GitHub → Upload files, o con `git add`).
 
-Imágenes recomendadas para subir:
+Imágenes recomendadas:
 - Silla ErgoPro
 - Escritorio SmartDesk (persona de pie)
 - Cabina Silence
-- Capturas de los 3 Canvas (si querés)
+- Capturas de los 3 Canvas (opcional)
+
+Los **prompts técnicos** que generó el Director Creativo para estas piezas están documentados en:  
+`examples/prompts-imagenes-director-creativo.md`
 
 ---
 
