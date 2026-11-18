@@ -89,9 +89,9 @@ taranis-black-gems/
 ├── examples/
 │   ├── contenido-semilla.md
 │   ├── adaptaciones-multiplicador.md
-│   ├── diagnosticos-auditor-tono.md              ← Resultados reales de la Gema Auditor
-│   ├── calendario-editorial-mensual.md           ← Salida del Modo 3 del SEO
-│   └── prompts-imagenes-director-creativo.md     ← User prompts + responses de las 3 imágenes
+│   ├── diagnosticos-auditor-tono.md
+│   ├── calendario-editorial-mensual.md
+│   └── prompts-imagenes-director-creativo.md
 ├── architecture/
 │   └── diagrama-flujo.md
 └── assets/
@@ -103,6 +103,8 @@ taranis-black-gems/
 ---
 
 ## 🖼️ Assets visuales generados
+
+> **Nota:** Los archivos están en formato `.jfif`. GitHub a veces no los previsualiza directamente en el README. Podés descargarlos o convertirlos a `.jpg` / `.png` si querés que se muestren embebidos.
 
 ### Imagen 1 (LinkedIn / 16:9)
 **Silla ErgoPro Executive** en oficina minimalista con mesh negro y base de aluminio pulido.  
@@ -136,7 +138,7 @@ Documentación completa de los user prompts + responses de la Gema Director Crea
 - Uso **exclusivo** de entornos Enterprise (Google Gemini Enterprise)
 - **Human-in-the-Loop** obligatorio antes de cualquier publicación
 - Prohibido cargar datos personales sin anonimizar
-- Cumplimiento: Ley 25.326 (Argentina), LGPD, RGPD, ISO/IEC 42001
+- Cumplimiento de **Ley 25.326** (Argentina), **LGPD**, **RGPD**, derechos **ARCO**, transparencia y mitigación de sesgos (ver detalle completo en `docs/politica-gobernanza-etica.md`)
 
 ---
 

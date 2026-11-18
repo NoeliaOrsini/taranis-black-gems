@@ -1,57 +1,53 @@
-# Calendario Editorial Mensual — Taranis Black  
-*(Generado por el Agente SEO en MODO 3)*
+# Estrategia de Campaña y Calendario Editorial Mensual (MODO 3) - Copys Completos
 
-El Agente SEO tiene **doble uso**:
-1. Investigación de tendencias en tiempo real + estructuras SEO de artículos.
-2. **Modo 3**: Planificación de campañas y Topic Clusters → genera el calendario editorial completo con temas, formatos, hashtags y ángulos de retorno.
-
----
-
-## Estructura de la campaña (4 semanas)
-
-### Semana 1 — Pilar 1: Evidencia Biomecánica y Regulatoria
-**Pregunta PAA abordada:** ¿Cómo prevenir las lesiones musculoesqueléticas (LER/DORT) en el trabajo de oficina?
-
-| Canal       | Formato                  | Enfoque principal                  |
-|-------------|--------------------------|------------------------------------|
-| LinkedIn    | Post ejecutivo + dato    | Costo del ausentismo + NR-17       |
-| Instagram   | Carrusel 5 slides        | Fatiga estática visual             |
-| Blog        | Artículo pilar SEO       | Guía NR-17 para Facilities         |
-| E-mail      | Nutrición B2B            | Informe técnico gratuito           |
-
-### Semana 2 — Pilar 2: Ingeniería de Producto y Diseño
-**Pregunta PAA abordada:** ¿Cada cuánto tiempo se debe alternar entre estar sentado y de pie en un escritorio elevable?
-
-| Canal       | Formato                  | Enfoque principal                  |
-|-------------|--------------------------|------------------------------------|
-| LinkedIn    | Post + video corto       | Método Sit-Stand + 15-22% energía  |
-| Instagram   | Reels / TikTok           | Demostración de motores SmartDesk  |
-| Blog        | Artículo satélite        | Comparativa ErgoPro vs convencional|
-| E-mail      | Caso de uso              | ROI de SmartDesk Pro Dual          |
-
-### Semana 3 — Pilar 3: ROI Corporativo y Blindaje Jurídico
-**Pregunta PAA abordada:** ¿Qué exige la normativa laboral (NR-17) sobre mobiliario ergonómico en oficinas?
-
-| Canal       | Formato                  | Enfoque principal                  |
-|-------------|--------------------------|------------------------------------|
-| LinkedIn    | Post C-Level             | Informe técnico individualizado    |
-| Instagram   | Carrusel                 | Cabinas Silence 32 dB              |
-| Blog        | Whitepaper corto         | Pasivos laborales vs inversión     |
-| E-mail      | Invitación a diagnóstico | Agendar auditoría ergonómica       |
-
-### Semana 4 — Integración (Ecosistema de Alto Desempeño)
-**Pregunta PAA abordada:** ¿Cómo impacta la ergonomía activa en la reducción del ausentismo y la productividad corporativa?
-
-| Canal       | Formato                  | Enfoque principal                  |
-|-------------|--------------------------|------------------------------------|
-| LinkedIn    | Hilo / carrusel          | Ecosistema ErgoPro + SmartDesk + Silence |
-| Instagram   | Carrusel + Stories       | Antes / Después de implementación  |
-| Blog        | Artículo de cierre       | Case study completo                |
-| E-mail      | Resumen del mes          | CTA a consultoría corporativa      |
+*Tema:* Ergonomía activa y prevención del ausentismo por LER/DORT en oficinas híbridas  
+*Marca:* Taranis Black  
+*Distribución de pilares:* 40% Evidencia Biomecánica y Regulatoria | 35% Ingeniería de Producto | 25% ROI Corporativo y Casos de Implementación  
 
 ---
 
-**Hashtags corporativos recomendados:**  
-`#ErgonomíaActiva #NR17 #FacilitiesManagement #SaludOcupacional #TaranisBlack #SmartDesk #ErgoPro #Silence`
+## Semana 1 — Pilar 1: Evidencia Biomecánica y Regulatoria
+*Pregunta PAA abordada:* ¿Cómo prevenir las lesiones musculoesqueléticas (LER/DORT) en el trabajo de oficina?
 
-Este calendario se genera automáticamente cuando se invoca el **Modo 3** del Agente SEO después de la investigación de tendencias en tiempo real.
+| Canal | Copys y Textos Listos para Publicar | Hashtags Oficiales |
+| :--- | :--- | :--- |
+| **LinkedIn B2B** | **Asunto / Títular:** El ausentismo por LER/DORT y el costo oculto de la fatiga estática.<br><br>Cuando un colaborador pasa más de 3 horas en una silla convencional sin soporte adaptativo, la circulación sanguínea en la región pélvica y lumbar cae hasta un 40%. Este fenómeno incrementa la presión intradiscal y detona licencias médicas de alto impacto financiero para las organizaciones.<br><br>En Taranis Black Labs analizamos cómo la transición hacia modelos híbridos exige superar la ergonomía pasiva. Integrar soporte lumbar dinámico y cumplimiento NR-17 no es solo bienestar; es continuidad operativa y gestión de riesgos.<br><br>Conozca nuestro análisis completo sobre biomecánica corporativa en el enlace de los comentarios. | #TaranisBlack #ErgonomiaActiva #SaludOcupacional #NR17 #PrevencionLER #PeopleAndCulture |
+| **Instagram** *(Carrusel Visual)* | **Slide 1:** ¿Sabías que estar 3 horas sentado reduce un 40% tu circulación lumbar?<br>**Slide 2:** El impacto invisible de la fatiga estática en jornadas de 8 a 12 horas.<br>**Slide 3:** Cómo el soporte lumbar dinámico previene microtraumatismos acumulativos en vértebras L4-L5 y S1.<br>**Slide 4:** De la ergonomía pasiva al estándar Taranis ErgoPro. Proteja a su equipo.<br><br>*Caption:* La fatiga estática afecta directamente la salud y el rendimiento de sus equipos. Descubra la ciencia detrás de nuestra línea ErgoPro Executive. | #TaranisBlack #ErgoPro #ErgonomiaActiva #BienestarCorporativo #FacilitiesManagement #DiseñoCorporativo |
+| **Reels / TikTok** *(Video 35s)* | **Guion técnico (Voz en off institucional):**<br>[0:00 - 0:10] Primer plano al mecanismo Synchro-Tilt italiano de la Taranis ErgoPro Executive.<br>*Voz:* "Así es como un mecanismo de ingeniería avanzada acompaña las micro-oscilaciones de la columna..."<br>[0:10 - 0:25] Animación o zoom en la zona lumbar (L4-L5).<br>*Voz:* "...aliviando la compresión intradiscal y previniendo la fatiga estática tras horas de trabajo continuo."<br>[0:25 - 0:35] Toma general del puesto corporativo.<br>*Voz:* "Infraestructura certificada NR-17 para proteger el capital humano. Taranis Black." | #TaranisBlack #ErgonomiaActiva #ErgoProExecutive #Biomecanica #NR17 #OficinasHibridas |
+| **E-mail B2B** | **Asunto:** El impacto oculto de la fatiga estática en sus equipos híbridos<br><br>Estimado/a [Nombre del Decisor],<br><br>En los esquemas de trabajo híbrido actuales, la sedestación prolongada en estaciones inadecuadas genera una caída de hasta el 40% en la circulación pélvica tras las primeras 3 horas, acelerando el riesgo de trastornos musculoesqueléticos (LER/DORT).<br><br>Para las direcciones de People & Culture y Facilities, mitigar este pasivo exige reemplazar la ergonomía pasiva por infraestructura de ergonomía activa respaldada por normativas como la NR-17 y ABERGO.<br><br>Lo invitamos a leer nuestro artículo pilar con evidencia clínica y criterios de especificación técnica: [Enlace al Artículo Pilar].<br><br>Atentamente,<br>Equipo de Ingeniería y Consultoría B2B · Taranis Black | #TaranisBlack #ConsultoriaB2B #PeopleAndCulture #SaludLaboral #NR17 |
+
+---
+
+## Semana 2 — Pilar 2: Ingeniería de Producto y Diseño
+*Pregunta PAA abordada:* ¿Cada cuánto tiempo se debe alternar entre estar sentado y de pie en un escritorio elevable?
+
+| Canal | Copys y Textos Listos para Publicar | Hashtags Oficiales |
+| :--- | :--- | :--- |
+| **LinkedIn B2B** | **Asunto / Títular:** Método Sit-Stand y productividad: el impacto de la alternancia postural.<br><br>La evidencia clínica de la Universidad de Pittsburgh confirma que alternar la postura entre sentado y de pie cada 45 a 60 minutos incrementa la energía cognitiva y la concentración entre un 15% y un 22%.<br><br>Sin embargo, implementar estaciones elevables en oficinas abiertas requiere ingeniería precisa: motores ultrasilenciosos por debajo de 43 dB y transiciones sin fricción operativa.<br><br>Con la línea Taranis SmartDesk Pro Dual 160, garantizamos estabilidad estructural y memorias programables diseñadas para el alto rendimiento corporativo. | #TaranisBlack #SmartDesk #ErgonomiaActiva #MetodoSitStand #ProductividadCorporativa #Facilities |
+| **Instagram** *(Carrusel Técnico)* | **Slide 1:** Método Sit-Stand: ¿cada cuánto tiempo debes alternar tu postura?<br>**Slide 2:** Bloques recomendados: 40 minutos sentado (soporte activo) y 15 minutos de pie.<br>**Slide 3:** Anatomía de la SmartDesk Pro Dual 160: Motores dobles alemanes <43 dB y panel LED táctil.<br>**Slide 4:** Transiciones fluidas en menos de 10 segundos con sensor anticolisión giroscópico.<br><br>*Caption:* Optimice el rendimiento cognitivo de su equipo con tecnología de elevación de alta precisión y certificación FSC. | #TaranisBlack #SmartDesk #ErgonomiaActiva #OficinaModerna #ArquitecturaCorporativa #DiseñoInterior |
+| **Reels / TikTok** *(Video 30s)* | **Guion técnico:**<br>[0:00 - 0:10] Demostración del panel táctil LED de la SmartDesk Pro Dual 160.<br>*Voz:* "Un toque en el panel táctil y la estación se eleva en menos de 10 segundos..."<br>[0:10 - 0:22] Primer plano a los motores dobles silenciosos en funcionamiento (<43 dB).<br>*Voz:* "...gracias a motores dobles ultrasilenciosos que no interrumpen el entorno de trabajo."<br>[0:22 - 0:30] Vista panorámica del escritorio con laptop y monitores estables.<br>*Voz:* "Alternancia postural real para sostener la energía cognitiva todo el día. Taranis Black." | #TaranisBlack #SmartDesk #SitStand #IngenieriaAlemana #OficinasHibridas #Productividad |
+| **E-mail B2B** | **Asunto:** Optimización de estaciones de trabajo con tecnología Sit-Stand certificada<br><br>Estimado/a [Nombre del Decisor],<br><br>La adopción del método Sit-Stand en oficinas corporativas ha demostrado elevar la energía y el enfoque de los equipos entre un 15% y un 22%. No obstante, la selección de los escritorios elevables requiere evaluar parámetros críticos de ingeniería: nivel de ruido del motor, velocidad de transición y capacidad de carga.<br><br>La línea Taranis SmartDesk integra motores dobles alemanes por debajo de 43 dB, memorias programables y tableros con certificación FSC, asegurando una integración impecable en sus plantas abiertas.<br><br>Consulte las especificaciones técnicas completas en nuestro catálogo: [Enlace al Catálogo SmartDesk].<br><br>Atentamente,<br>Equipo de Especificación Técnica · Taranis Black | #TaranisBlack #SmartDesk #FacilitiesManagement #InfografiaTecnica #B2B |
+
+---
+
+## Semana 3 — Pilar 3: ROI Corporativo y Blindaje Jurídico
+*Pregunta PAA abordada:* ¿Qué exige la normativa laboral (NR-17) sobre mobiliario ergonómico en oficinas?
+
+| Canal | Copys y Textos Listos para Publicar | Hashtags Oficiales |
+| :--- | :--- | :--- |
+| **LinkedIn B2B** | **Asunto / Títular:** El costo invisible del ausentismo y el valor del blindaje legal NR-17.<br><br>Un colaborador clave ausente por trastornos musculoesqueléticos (LER/DORT) genera un costo oculto estimado en hasta 3 veces su remuneración mensual, considerando licencias, reemplazos y pérdida de velocidad operativa.<br><br>Cumplir con la Norma Regulamentadora N° 17 no es opcional; es una exigencia auditable. En Taranis Black, cada proyecto corporativo incluye la emisión de un Informe Técnico Individualizado firmado por ingenieros y ergonomistas acreditados por ABERGO.<br><br>Convierta el gasto en mobiliario en una inversión preventiva con retorno medible y respaldo jurídico. | #TaranisBlack #Compliance #NR17 #ABERGO #SeguridadLaboral #ROIcorporativo #PeopleAndCulture |
+| **Instagram** *(Carrusel Ejecutivo)* | **Slide 1:** ¿Qué exige la norma NR-17 sobre el mobiliario en su empresa?<br>**Slide 2:** Confort pasivo vs. Infraestructura ergonómica activa auditada.<br>**Slide 3:** El valor jurídico del Informe Técnico Individualizado firmado por ergonomistas.<br>**Slide 4:** Proteja a su organización frente a inspecciones laborales y pasivos por LER/DORT.<br><br>*Caption:* La seguridad jurídica y el cumplimiento normativo son pilares fundamentales en la gestión de Facilities y RR. HH. Conozca nuestro respaldo técnico B2B. | #TaranisBlack #NR17 #SeguridadOcupacional #Facilities #ComplianceLaboral #ArquitecturaCorporativa |
+| **Reels / TikTok** *(Video 40s)* | **Guion técnico:**<br>[0:00 - 0:12] Recorrido visual por el interior de una cabina Taranis Silence Quad.<br>*Voz:* "En oficinas abiertas, recuperar el foco tras una interrupción sonora toma 23 minutos y 15 segundos..."<br>[0:12 - 0:28] Primer plano al vidrio doble laminado y sistema de ventilación con sensor de CO2.<br>*Voz:* "...por ello, Silence ofrece 32 dB de atenuación acústica certificada ISO 23351-1 sin obras civiles."<br>[0:28 - 0:40] Toma ejecutiva de reunión confidencial dentro de la cabina.<br>*Voz:* "Privacidad acústica y cumplimiento normativo inmediato. Taranis Black." | #TaranisBlack #SilenceCabin #AcousticDesign #OpenSpace #PrivacidadEjecutiva #ISO23351 |
+| **E-mail B2B** | **Asunto:** Blindaje legal NR-17 y mitigación de pasivos laborales<br><br>Estimado/a [Nombre del Decisor],<br><br>Las inspecciones laborales y el incremento de licencias por LER/DORT exigen a las organizaciones contar con documentación técnica auditable que certifique la conformidad de sus puestos de trabajo.<br><br>En Taranis Black respaldamos cada despliegue corporativo B2B con un Informe Técnico Individualizado en formato PDF, firmado por un Ingeniero de Seguridad y un Ergonomista acreditado por ABERGO, asegurando cumplimiento bajo la norma NR-17 y estándares ANSI/BIFMA X5.1.<br><br>Permítanos coordinar una sesión de asesoría técnica para evaluar el estado normativo de sus instalaciones: [Enlace de Contacto B2B].<br><br>Atentamente,<br>Dirección de Operaciones y Cumplimiento · Taranis Black | #TaranisBlack #ComplianceNR17 #FacilitiesManager #SeguridadLaboral #B2B |
+
+---
+
+## Semana 4 — Pilar 1 + 2 Integrados (Ecosistema de Alto Desempeño)
+*Pregunta PAA abordada:* ¿Cómo impacta la ergonomía activa en la reducción del ausentismo y la productividad corporativa?
+
+| Canal | Copys y Textos Listos para Publicar | Hashtags Oficiales |
+| :--- | :--- | :--- |
+| **LinkedIn B2B** | **Asunto / Títular:** Ecosistemas corporativos de alto desempeño: ergonomía, acústica y ROI.<br><br>La modernización de oficinas híbridas requiere una visión integral: articular la biomecánica de la línea ErgoPro, la alternancia postural de SmartDesk y la higiene acústica de las cabinas Silence para proteger la integridad y el estado de flow de los equipos.<br><br>Invertir en infraestructura con garantías estructurales de 5 años y soporte técnico certificado transforma los espacios de trabajo en activos estratégicos de retención de talento y productividad sostenida.<br><br>Conozca nuestro portafolio corporativo completo y solicite un diagnóstico a medida. | #TaranisBlack #EcosistemasCorporativos #ErgonomiaActiva #RetencionDeTalento #InnovacionB2B #Facilities |
+| **Instagram** *(Carrusel de Casos)* | **Slide 1:** Arquitectura corporativa híbrida: el ecosistema Taranis Black.<br>**Slide 2:** Sillas ErgoPro Executive + Escritorios SmartDesk + Cabinas Silence.<br>**Slide 3:** Integración estética minimalista y confort acústico sin necesidad de reformas civiles.<br>**Slide 4:** Proteja el capital humano y potencie la concentración profunda de sus equipos.<br><br>*Caption:* Un diseño arquitectónico sobrio y funcional que responde a las más altas exigencias de ingeniería ocupacional. | #TaranisBlack #ArquitecturaCorporativa #OpenSpace #DiseñoInterior #ErgonomiaActiva #HighPerformance |
+| **Reels / TikTok** *(Video 45s)* | **Guion técnico:**<br>[0:00 - 0:15] Secuencia dinámica integrando las tres líneas: ErgoPro, SmartDesk y Silence.<br>*Voz:* "Ergonomía activa, alternancia postural y aislamiento acústico certificado en un solo ecosistema..."<br>[0:15 - 0:30] Primeros planos a los acabados de madera FSC y aluminio pulido.<br>*Voz:* "...diseñado con materiales nobles de origen europeo y garantías estructurales de 5 años."<br>[0:30 - 0:45] Cierre institucional con el logo de la marca.<br>*Voz:* "Infraestructura para el capital humano. Taranis Black." | #TaranisBlack #EcosistemaCorporativo #ErgonomiaActiva #DiseñoMinialista #IngenieriaAplicada |
+| **E-mail B2B** | **Asunto:** Informe Taranis Black: Ecosistemas corporativos de alto desempeño<br><br>Estimado/a [Nombre del Decisor],<br><br>Diseñar oficinas preparadas para el trabajo híbrido demanda unificar tres dimensiones críticas: la salud biomecánica, la flexibilidad operativa y el confort acústico.<br><br>El ecosistema integrado de Taranis Black —compuesto por las líneas ErgoPro, SmartDesk y Silence— ofrece una solución arquitectónica y normativa integral, respaldada por informes técnicos individuales y garantías estructurales de 5 años.<br><br>Lo invitamos a agendar una sesión consultiva con nuestros ingenieros especialistas para diseñar un diagnóstico a medida para su organización: [Enlace para Agendar Consultoría].<br><br>Atentamente,<br>Dirección Comercial B2B · Taranis Black | #TaranisBlack #ConsultoriaEjecutiva #FacilitiesManagement #EcosistemasCorporativos #B2B |
