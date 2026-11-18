@@ -118,7 +118,7 @@ Archivo: [`assets/escritorio.jpg`](assets/escritorio.jpg)
 
 ### Imagen 3 (Horizontal / 16:9)
 **Cabina acústica modular Taranis Silence Quad** con vidrio doble laminado y estructura en grafito mate.  
-Archivo: [`assets/cabina.jph`](assets/cabina.jpg)
+Archivo: [`assets/cabina.jpg`](assets/cabina.jpg)
 
 Documentación completa de los user prompts + responses de la Gema Director Creativo:  
 [`examples/prompts-imagenes-director-creativo.md`](examples/prompts-imagenes-director-creativo.md)
