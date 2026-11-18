@@ -101,13 +101,10 @@ taranis-black-gems/
 
 ## 🖼️ Assets (imágenes)
 
-**Arrastrá las imágenes** a la carpeta `assets/` (desde la web de GitHub → Upload files, o con `git add`).
-
 Imágenes recomendadas:
 - Silla ErgoPro
 - Escritorio SmartDesk (persona de pie)
 - Cabina Silence
-- Capturas de los 3 Canvas (opcional)
 
 Los **prompts técnicos** que generó el Director Creativo para estas piezas están documentados en:  
 `examples/prompts-imagenes-director-creativo.md`
@@ -134,7 +131,7 @@ Los **prompts técnicos** que generó el Director Creativo para estas piezas est
 ---
 
 **Autora**: Noelia Natalia María Orsini  
-**Cohorte**: G11 · Alura / StartSe  
+
 
 ---
 
