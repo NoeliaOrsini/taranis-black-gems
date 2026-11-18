@@ -108,19 +108,17 @@ taranis-black-gems/
 
 ## 🖼️ Assets visuales generados
 
-> **Nota:** Los archivos están en formato `.jfif`. GitHub a veces no los previsualiza directamente en el README. Podés descargarlos o convertirlos a `.jpg` / `.png` si querés que se muestren embebidos.
-
 ### Imagen 1 (LinkedIn / 16:9)
 **Silla ErgoPro Executive** en oficina minimalista con mesh negro y base de aluminio pulido.  
-Archivo: [`assets/silla.jfif`](assets/silla.jfif)
+Archivo: [`assets/silla.jpg`](assets/silla.jpg)
 
 ### Imagen 2 (Instagram / 4:5)
 **Escritorio elevable SmartDesk Pro Dual 160** con tapa de roble FSC y panel táctil LED en uso Sit-Stand.  
-Archivo: [`assets/escritorio.jfif`](assets/escritorio.jfif)
+Archivo: [`assets/escritorio.jpg`](assets/escritorio.jpg)
 
 ### Imagen 3 (Horizontal / 16:9)
 **Cabina acústica modular Taranis Silence Quad** con vidrio doble laminado y estructura en grafito mate.  
-Archivo: [`assets/cabina.jfif`](assets/cabina.jfif)
+Archivo: [`assets/cabina.jph`](assets/cabina.jpg)
 
 Documentación completa de los user prompts + responses de la Gema Director Creativo:  
 [`examples/prompts-imagenes-director-creativo.md`](examples/prompts-imagenes-director-creativo.md)
@@ -147,8 +145,8 @@ Documentación completa de los user prompts + responses de la Gema Director Crea
 ---
 
 **Autora**: Noelia Natalia María Orsini  
-**Cohorte**: G11 · Alura / StartSe  
+Desarrolladora Backend - Abogada - Counselor 
 
 ---
 
-*Este repositorio documenta el trabajo completo del Challenge One – Ruta 2.*
+
