@@ -6,23 +6,34 @@ Repositorio privado con todos los entregables del challenge aplicado a **Taranis
 
 ---
 
-## 📋 Orden de creación (paso a paso)
+## 📋 Orden real de creación (paso a paso)
 
-1. **Primero se crearon los Manuales de base de conocimiento**  
+1. **Primero se realizaron los 3 AI Canvas en StartSe**  
+   Para entender la problemática y analizar los distintos puntos de cada caso de uso.  
+   Cada Canvas contiene los **6 puntos clave**:
+
+   | # | Punto del Canvas              | Descripción breve |
+   |---|-------------------------------|-------------------|
+   | 1 | **Problema**                  | Problema central del negocio |
+   | 2 | **Como resolver SEM AI**      | Proceso actual (manual) |
+   | 3 | **Como resolver COM AI**      | Solución AI by design |
+   | 4 | **Para quem?**                | Personas / destinatarios |
+   | 5 | **Dados**                     | Datos e fuentes |
+   | 6 | **Ferramentas + Indicadores** | Herramientas e indicadores de sucesso |
+
+   **Problema central (del documento de entrega):**  
+   El equipo de marketing de Taranis Black (4 personas) gestiona simultáneamente LinkedIn, Instagram, TikTok y el blog. El tono de voz pierde consistencia, las imágenes dependen de freelancers que tardan en entregarlas y las respuestas en redes demoran más de 24 horas. Todo esto bajo un crecimiento anual >35%.
+
+2. **Luego se crearon los Manuales de base de conocimiento**  
    - `docs/taranis_black_tono_de_voz_es_txt.txt` → Manual de Identidad Verbal y Tono de Voz v1.0  
    - `docs/taranis_black_briefing_de_marca_es_txt.txt` → Briefing de Marca Corporativo v1.0  
 
-   Estos dos documentos son la **fuente de verdad (RAG)** que alimenta a todas las Gems/Skills.
+   Estos dos documentos son la **fuente de verdad (RAG)** que alimenta a todas las Gems.  
+   En el Manual de Tono se usó la técnica de **few-shot prompting** (ejemplos de “Antes / Después” y diagnósticos positivos/negativos) para guiar al modelo.
 
-2. **Luego se diseñaron los 3 AI Canvas** (ver carpeta `docs/` o PDFs originales).
+3. **Se configuraron las 4 Gems** con los prompts de sistema (carpeta `prompts/`).
 
-3. **Se configuraron las 4 Gems** con los prompts de sistema que están en la carpeta `prompts/`:
-   - Auditor de Identidad Verbal y Tono de Voz
-   - Multiplicador de Contenido Semilla
-   - Especialista en SEO y Estrategia de Campañas B2B
-   - Director Creativo Visual
-
-4. **Se generaron ejemplos reales** de outputs y assets visuales.
+4. **Se generaron ejemplos reales** (carpeta `examples/`) y assets visuales (carpeta `assets/`).
 
 ---
 
@@ -30,30 +41,34 @@ Repositorio privado con todos los entregables del challenge aplicado a **Taranis
 
 ```mermaid
 flowchart TD
-    A[Manual de Tono de Voz v1.0] --> B[Base de Conocimiento RAG]
-    C[Briefing de Marca v1.0] --> B
+    A[3 AI Canvas StartSe] --> B[Manual de Tono + Briefing]
+    B --> C[Base de Conocimiento RAG]
     
-    B --> D[Gem 1: Auditor de Tono]
-    B --> E[Gem 2: Multiplicador de Contenido]
-    B --> F[Gem 3: Estratega SEO + Deep Research]
-    B --> G[Gem 4: Director Creativo Visual]
+    C --> D[Gem 1: Auditor de Tono]
+    C --> E[Gem 2: Multiplicador de Contenido]
+    C --> F[Gem 3: Estratega SEO + Deep Research]
+    C --> G[Gem 4: Director Creativo Visual]
     
     D --> H[Revisión Human-in-the-Loop]
     E --> H
     F --> H
     G --> H
     
-    H --> I[Publicación en canales<br>LinkedIn · Instagram · Email · Blog · TikTok]
+    H --> I[Publicación Multicanal]
 ```
 
 ### Agentes implementados
 
-| # | Agente | Función principal | Archivo de prompt |
-|---|--------|-------------------|-------------------|
-| 1 | **Auditor de Identidad Verbal** | Evalúa borradores (1-10), detecta palabras prohibidas, reescribe en tono Taranis | `prompts/auditor-de-tono-de-voz.md` |
-| 2 | **Multiplicador de Contenido Semilla** | Transforma 1 contenido semilla → 4/6 formatos listos (Blog, Email, LinkedIn, Newsletter…) | `prompts/multiplicador-de-contenido.md` |
-| 3 | **Estratega SEO & Campañas** | Investigación real + estructuras SEO + Topic Clusters + GEO | `prompts/seo-estrategico.md` |
-| 4 | **Director Creativo Visual** | Fichas de dirección de arte + prompts técnicos en inglés para generación de imágenes | `prompts/director-creativo.md` |
+| # | Agente | Función principal | Archivo de prompt | Enlace a la Gema |
+|---|--------|-------------------|-------------------|------------------|
+| 1 | **Auditor de Identidad Verbal** | Evalúa borradores (1-10), detecta palabras prohibidas, reescribe en tono Taranis. Usa few-shot. | `prompts/auditor-de-tono-de-voz.md` | [Abrir Gema](https://gemini.google.com/gem/1mgUNS7Rsu6Oj_IeBkj4USKk39R5wjgn6?usp=sharing) |
+| 2 | **Multiplicador de Contenido Semilla** | Transforma 1 contenido semilla → formatos listos (Blog, Email, LinkedIn, Newsletter, Carrusel, TikTok) | `prompts/multiplicador-de-contenido.md` | [Abrir Gema](https://gemini.google.com/gem/1lh6k7eX1xQh4-m-gcddIqn_ofa93MVXP?usp=sharing) |
+| 3 | **Estratega SEO & Campañas** | Investigación real en Google (tendencias + PAA) + estructuras SEO. **Doble uso**: Mode 3 genera el calendario editorial completo. | `prompts/seo-estrategico.md` | [Abrir Gema](https://gemini.google.com/gem/18XQNusWRCaE35wQVHqIdaK1CyIRkGaFn?usp=sharing) |
+| 4 | **Director Creativo Visual** | Fichas de dirección de arte + prompts técnicos en inglés para generación de imágenes | `prompts/director-creativo.md` | [Abrir Gema](https://gemini.google.com/gem/1hw6INvrdKpGI1MkEZKgBzumH-I3k60kN?usp=sharing) |
+
+> **Nota importante sobre el Agente SEO**:  
+> Primero realiza investigación en tiempo real (tendencias de mercado, People Also Ask, artículos que rankean). Luego identifica los ángulos de mayor retorno.  
+> El **Modo 3** se usa específicamente para armar el calendario de publicaciones y diagramar la campaña mensual completa (ver ejemplo en `examples/calendario-editorial-mensual.md`).
 
 ---
 
@@ -63,33 +78,35 @@ flowchart TD
 taranis-black-gems/
 ├── README.md
 ├── docs/
-│   ├── taranis_black_tono_de_voz_es_txt.txt      ← Manual de Tono (fuente de verdad)
+│   ├── taranis_black_tono_de_voz_es_txt.txt      ← Manual de Tono (con few-shots)
 │   ├── taranis_black_briefing_de_marca_es_txt.txt ← Briefing de Marca
-│   ├── politica-gobernanza-etica.md              ← Resumen de política
-│   └── ai-canvas-resumen.md
+│   └── politica-gobernanza-etica.md
 ├── prompts/
 │   ├── auditor-de-tono-de-voz.md
 │   ├── multiplicador-de-contenido.md
 │   ├── seo-estrategico.md
 │   └── director-creativo.md
 ├── examples/
-│   └── (outputs de ejemplo)
+│   ├── contenido-semilla.md
+│   ├── adaptaciones-multiplicador.md
+│   ├── diagnosticos-auditor-tono.md          ← Ejemplos few-shot (+/-)
+│   └── calendario-editorial-mensual.md       ← Salida del Modo 3 del SEO
 ├── architecture/
 │   └── diagrama-flujo.md
-└── assets/
-    └── (imágenes de producto generadas)
+└── assets/                                   ← Arrastrá aquí las imágenes de producto
 ```
 
 ---
 
-## 🔗 Enlaces a las Gems originales (Google Gemini)
+## 🖼️ Assets (imágenes)
 
-> Nota: A partir del 17/11/2025 las Gems están migrando a **Skills**. Los enlaces pueden cambiar.
+Sí, **arrastrá las imágenes** a la carpeta `assets/` (desde la web de GitHub o con `git add`).
 
-- **Auditor de Tono**: https://gemini.google.com/gem/1mgUNS7Rsu6Oj_IeBkj4USKk39R5wjgn6?usp=sharing  
-- **Multiplicador de Contenido**: https://gemini.google.com/gem/1lh6k7eX1xQh4-m-gcddIqn_ofa93MVXP?usp=sharing  
-- **SEO Estratégico**: https://gemini.google.com/gem/18XQNusWRCaE35wQVHqIdaK1CyIRkGaFn?usp=sharing  
-- **Director Creativo**: https://gemini.google.com/gem/1hw6INvrdKpGI1MkEZKgBzumH-I3k60kN?usp=sharing  
+Imágenes recomendadas para subir:
+- Silla ErgoPro
+- Escritorio SmartDesk (persona de pie)
+- Cabina Silence
+- Capturas de los 3 Canvas (si querés)
 
 ---
 
@@ -114,7 +131,6 @@ taranis-black-gems/
 
 **Autora**: Noelia Natalia María Orsini  
 **Cohorte**: G11 · Alura / StartSe  
-**Fecha**: Noviembre 2025 / 2026
 
 ---
 
