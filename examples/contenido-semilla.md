@@ -1,0 +1,7 @@
+# Contenido Semilla de ejemplo
+
+**Título:** El Impacto de la Fatiga Estática y el Ausentismo en el Trabajo Híbrido
+
+En los últimos dos años, la consolidación de los modelos híbridos de trabajo ha provocado una explosión silenciosa de quejas osteomusculares y licencias médicas en las organizaciones latinoamericanas, posicionando a las lesiones LER/DORT como la segunda causa de ausentismo laboral. El costo oculto de un colaborador clave alejado por estas afecciones puede triplicar su remuneración mensual debido a la pérdida de continuidad operativa.
+
+Durante décadas, la adquisición de mobiliario se trató como una compra de bajo costo ("confort pasivo"). Sin embargo, la medicina ocupacional demuestra que permanecer sentado más de tres horas en asientos convencionales reduce hasta un 40% la circulación sanguínea pélvica y lumbar, acelerando la fatiga estática. Para neutralizar este riesgo y cumplir con la norma reglamentaria NR-17 (ABERGO), Taranis Black integra soluciones de ergonomía activa: las sillas ErgoPro con soporte lumbar 3D dinámico, los escritorios elevables SmartDesk Pro Dual (método Sit-Stand que eleva la energía cognitiva entre un 15% y un 22% con motores ultrasilenciosos menores a 43 dB) y las cabinas acústicas Silence con atenuación de 32 dB (ISO 23351-1) para blindar el foco profundo en espacios abiertos (open-space). Cada proyecto corporativo incluye un informe técnico ergonómico individualizado firmado por ergonomistas acreditados.
