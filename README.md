@@ -78,8 +78,8 @@ flowchart TD
 taranis-black-gems/
 ├── README.md
 ├── docs/
-│   ├── taranis_black_tono_de_voz_es_txt.txt      ← Manual de Tono (con few-shots)
-│   ├── taranis_black_briefing_de_marca_es_txt.txt ← Briefing de Marca
+│   ├── taranis_black_tono_de_voz_es_txt.txt
+│   ├── taranis_black_briefing_de_marca_es_txt.txt
 │   └── politica-gobernanza-etica.md
 ├── prompts/
 │   ├── auditor-de-tono-de-voz.md
@@ -91,23 +91,33 @@ taranis-black-gems/
 │   ├── adaptaciones-multiplicador.md
 │   ├── diagnosticos-auditor-tono.md              ← Resultados reales de la Gema Auditor
 │   ├── calendario-editorial-mensual.md           ← Salida del Modo 3 del SEO
-│   └── prompts-imagenes-director-creativo.md     ← Fichas + prompts técnicos de las 3 imágenes
+│   └── prompts-imagenes-director-creativo.md     ← User prompts + responses de las 3 imágenes
 ├── architecture/
 │   └── diagrama-flujo.md
-└── assets/                                       ← Arrastrá aquí las imágenes de producto
+└── assets/
+    ├── silla.jfif
+    ├── escritorio.jfif
+    └── cabina.jfif
 ```
 
 ---
 
-## 🖼️ Assets (imágenes)
+## 🖼️ Assets visuales generados
 
-Imágenes recomendadas:
-- Silla ErgoPro
-- Escritorio SmartDesk (persona de pie)
-- Cabina Silence
+### Imagen 1 (LinkedIn / 16:9)
+**Silla ErgoPro Executive** en oficina minimalista con mesh negro y base de aluminio pulido.  
+Archivo: [`assets/silla.jfif`](assets/silla.jfif)
 
-Los **prompts técnicos** que generó el Director Creativo para estas piezas están documentados en:  
-`examples/prompts-imagenes-director-creativo.md`
+### Imagen 2 (Instagram / 4:5)
+**Escritorio elevable SmartDesk Pro Dual 160** con tapa de roble FSC y panel táctil LED en uso Sit-Stand.  
+Archivo: [`assets/escritorio.jfif`](assets/escritorio.jfif)
+
+### Imagen 3 (Horizontal / 16:9)
+**Cabina acústica modular Taranis Silence Quad** con vidrio doble laminado y estructura en grafito mate.  
+Archivo: [`assets/cabina.jfif`](assets/cabina.jfif)
+
+Documentación completa de los user prompts + responses de la Gema Director Creativo:  
+[`examples/prompts-imagenes-director-creativo.md`](examples/prompts-imagenes-director-creativo.md)
 
 ---
 
@@ -131,7 +141,7 @@ Los **prompts técnicos** que generó el Director Creativo para estas piezas est
 ---
 
 **Autora**: Noelia Natalia María Orsini  
-
+**Cohorte**: G11 · Alura / StartSe  
 
 ---
 
