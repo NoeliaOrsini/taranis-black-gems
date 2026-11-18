@@ -4,6 +4,10 @@
 
 Repositorio con todos los entregables del challenge aplicado a **Taranis Black** (mobiliario corporativo de ergonomía activa – líneas ErgoPro, SmartDesk y Silence).
 
+> **Nota importante sobre la migración Gems → Skills (a partir del 17/11):**  
+> De forma progresiva, las Gems de Google Gemini están migrando a **Skills**. Esto permitirá conectar varias Gems entre sí y trabajar directamente desde Gemini combinando capacidades.  
+> A la fecha de este repositorio las Gems siguen vigentes. Los permisos otorgados para utilizarlas continuarán sin perjuicio de la migración.
+
 ---
 
 ## 📋 Orden real de creación (paso a paso)
