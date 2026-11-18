@@ -1,0 +1,169 @@
+================================================================
+TARANIS BLACK · ERGONOMÍA ACTIVA Y MOBILIARIO CORPORATIVO
+BRIEFING DE MARCA — v1.0
+Base de conocimiento para Asistentes de IA (Google Gemini 4 Argon / Hydrogen)
+================================================================
+
+
+----------------------------------------------------------------
+1. IDENTIDAD DE LA MARCA
+----------------------------------------------------------------
+
+Nombre: Taranis Black
+Tagline: Ergonomía Activa · Infraestructura para el Capital Humano
+Categoría: Mobiliario corporativo de alta performance y soluciones acústicas B2B / D2C
+Segmento: Mercado latinoamericano de ergonomía corporativa, posicionamiento B2B prémium
+
+PROPÓSITO
+Transformar los espacios de trabajo corporativos e híbridos en entornos saludables, silenciosos y productivos que protejan la integridad física y cognitiva de las personas.
+
+PROMESA CENTRAL
+Infraestructura ergonómica con respaldo biomecánico, diseño arquitectónico minimalista y cumplimiento normativo integral (NR-17 / ABERGO / ISO) que genera retorno de inversión medible.
+
+MISIÓN
+Diseñar y proveer soluciones ergonómicas de alta ingeniería que prevengan lesiones ocupacionales (LER/DORT), potencien el foco profundo de los equipos y blinden legalmente a las organizaciones frente a auditorías laborales.
+
+VISIÓN
+Consolidarnos como el estándar de referencia en ergonomía corporativa en América Latina, liderando la transición del mobiliario pasivo hacia ecosistemas de trabajo activos y sostenibles.
+
+VALORES
+1. Rigor Científico — Cada diseño responde a parámetros biomecánicos y certificaciones auditables.
+2. Prevención y Cuidado — Priorizamos la salud ocupacional a largo plazo sobre la compra comoditizada.
+3. Excelencia Estética y Técnica — Materiales nobles de origen internacional (Alemania, Italia) con garantías de hasta 5 años.
+4. Transparencia Normativa — Entregamos informes técnicos individualizados firmados por ergonomistas acreditados en cada operación B2B.
+5. Sostenibilidad Operativa — Maderas con certificación FSC y productos diseñados para reducir el ausentismo y la rotación.
+
+
+----------------------------------------------------------------
+2. PÚBLICO OBJETIVO (BUYER PERSONAS B2B)
+----------------------------------------------------------------
+
+PERSONA 1 — MARIANA (DIRECTORA DE PEOPLE & CULTURE / RR. HH.)
+Edad: 42 años
+Ubicación: São Paulo / Buenos Aires / Hubs corporativos LATAM
+Perfil: Gestiona el bienestar, la retención de talento y el cumplimiento laboral en empresas tecnológicas y financieras en expansión (200 a 1.000+ colaboradores).
+Dolores y deseos: Le preocupa el aumento de licencias médicas por LER/DORT en el regreso al esquema híbrido y el riesgo de multas por incumplimiento de la norma NR-17. Busca un proveedor confiable que entregue respaldo técnico legal junto con el mobiliario.
+Canales donde está: LinkedIn, E-mail corporativo, eventos de gestión humana, artículos especializados.
+Ticket promedio: Proyectos corporativos B2B de USD 15.000 a USD 80.000+.
+
+PERSONA 2 — CARLOS (GERENTE DE FACILITIES Y ARQUITECTURA CORPORATIVA)
+Edad: 39 años
+Ubicación: Principales capitales empresariales de la región
+Perfil: Responsable de diseñar, equipar y mantener oficinas modernas de planta abierta (open-space) con alta densidad de equipos.
+Dolores y deseos: Necesita resolver las quejas por ruido ambiental y falta de salas para videollamadas sin afrontar obras civiles costosas ni demoras. Exige durabilidad estructural, plazos de entrega claros y estética minimalista de alto nivel.
+Canales donde está: LinkedIn, Instagram (referencias de arquitectura), catálogos técnicos, reuniones consultivas.
+Ticket promedio: Equipamiento integral (cabinas Silence + puestos SmartDesk/ErgoPro) superior a USD 35.000 (calificando para flete CIF).
+
+PERSONA 3 — LUCAS (LÍDER TÉCNICO / PROFESIONAL DE TI EN HOME OFFICE O HÍBRIDO)
+Edad: 31 años
+Ubicación: Centros urbanos
+Perfil: Desarrollador senior, analista de datos o trader que trabaja entre 8 y 12 horas diarias frente a múltiples monitores.
+Dolores y deseos: Sufre fatiga lumbar, tensión cervical y somnolencia vespertina. Valora las especificaciones técnicas reales (ajustes 4D, memorias de altura, silencio de motores <43 dB).
+Canales donde está: Instagram, TikTok, YouTube, reseñas técnicas.
+Ticket promedio: Compras D2C o vía beneficio corporativo de USD 1.890 a USD 4.800.
+
+DATOS DE CONTEXTO QUE SUSTENTAN LA PROPUESTA
+- Crecimiento acelerado de Taranis Black: >35% anual y facturación de USD 48M con 280 colaboradores.
+- Costo del ausentismo: Un colaborador clave alejado por LER/DORT genera un costo invisible de hasta 3 veces su remuneración mensual.
+- Impacto de la fatiga estática: Tras 3 horas sentado en sillas convencionales, la circulación sanguínea pélvica y lumbar cae hasta un 40%.
+- Beneficio Sit-Stand: Alternar postura entre sentado y de pie eleva la energía cognitiva entre un 15% y un 22% (Univ. de Pittsburgh / British Journal of Sports Medicine).
+- Impacto acústico: Recuperar el estado de flow tras una interrupción sonora toma 23 minutos y 15 segundos (Univ. de California, Irvine).
+
+
+----------------------------------------------------------------
+3. POSICIONAMIENTO Y PORTAFOLIO OFICIAL
+----------------------------------------------------------------
+
+POSICIONAMIENTO EN UNA FRASE
+Para empresas en expansión que buscan proteger su capital humano y maximizar la productividad híbrida, Taranis Black es la marca de ergonomía corporativa que combina ingeniería biomecánica certificada (NR-17), aislamiento acústico y diseño prémium con ROI comprobable.
+
+LÍNEAS DE PRODUCTO OFICIALES (CATÁLOGO 2026)
+1. Línea Taranis ErgoPro (Sillas Corporativas para jornadas de 8 a 12h):
+   - ErgoPro Executive (USD 3.490): Mesh alemán, soporte lumbar 3D dinámico, brazos 4D, Synchro-Tilt italiano, pistón Clase 4 (150 kg). Certificación integral NR-17 (ABERGO) y ANSI/BIFMA X5.1. Garantía 5 años.
+   - ErgoPro Specialist (USD 2.490): Espuma inyectada D60 con control térmico, lumbar 6 niveles, brazos 3D, pistón Clase 4 (135 kg). Informe NR-17.
+   - ErgoPro Core (USD 1.890): Curvatura fisiológica premoldada, espuma D50, brazos 2D. Conformidad NR-17, ideal alto volumen B2B.
+
+2. Línea Taranis SmartDesk (Escritorios Elevables Eléctricos Sit-Stand):
+   - SmartDesk Pro Dual 160 (USD 4.800): Motor doble alemán (<43 dB), 38 mm/s, panel táctil LED con 4 memorias, sensor anticolisión giroscópico, tapa FSC 160x80 cm, carga 125 kg.
+   - SmartDesk Studio 140 (USD 3.600): Motor doble (<46 dB), 32 mm/s, 4 memorias, tapa 140x70 cm, carga 100 kg.
+   - SmartDesk Compact 120 (USD 2.700): Motor único alto par, 3 memorias, tapa 120x60 cm, carga 75 kg, montaje en 20 min.
+
+3. Línea Taranis Silence (Cabinas Acústicas Modulares):
+   - Silence Quad - 4 lugares (USD 28.000): Atenuación 32 dB (ISO 23351-1), vidrio doble laminado 10 mm, ventilación con sensor CO2 (renovación aire cada 90 seg), panel multimedia USB-C 65W y HDMI.
+   - Silence Duo - 2 lugares (USD 21.000): Reuniones 1-on-1 y entrevistas RR. HH., atenuación 32 dB, ventilación <28 dB.
+   - Silence Solo - Phone Booth (USD 14.500): Foco profundo y llamadas, atenuación 30 dB, cargador inalámbrico por inducción embutido.
+
+POLÍTICAS COMERCIALES Y DIFERENCIALES B2B (REASON TO BELIEVE)
+- Informe Técnico Individualizado: Toda compra B2B incluye informe ergonómico de puesto de trabajo en PDF firmado por Ingeniero de Seguridad y Ergonomista acreditado (prueba legal ante inspecciones NR-17).
+- Condiciones B2B: Facturación 30/60/90 días para empresas con +2 años de antigüedad y aprobación crediticia.
+- Logística y Personalización: Flete CIF gratuito para pedidos >USD 35.000 en capitales Sur/Sudeste. Personalización sin cargo de colores mesh y madera para pedidos >30 posiciones.
+
+ARQUETIPO DE MARCA
+Taranis Black opera como EL SABIO (rigor científico, datos, investigación de Taranis Black Labs) combinado con EL CREADOR / PROTECTOR (diseño arquitectónico de vanguardia que resguarda la salud del trabajador).
+
+
+----------------------------------------------------------------
+4. IDENTIDAD VISUAL — REFERENCIA PARA CONTENIDO
+----------------------------------------------------------------
+
+PALETA CROMÁTICA Y ESTÉTICA
+- Color Primario: Negro Mate / Grafito Arquitectónico (sobriedad, tecnología, elegancia ejecutiva).
+- Colores Secundarios: Tonos metálicos (aluminio pulido, acero carbono) y madera natural certificada FSC (roble).
+- Estilo Visual: Minimalismo corporativo, iluminación arquitectónica limpia, espacios modernos ordenados sin contaminación visual.
+
+FOTOGRAFÍA Y VIDEO
+- Ambientes reales de oficinas contemporáneas y estaciones híbridas bien iluminadas.
+- Primeros planos técnicos de mecanismos (ajuste lumbar 3D, panel LED de altura, vidrio acústico doble).
+- Diversidad real de profesionales trabajando en posturas saludables y alternancia Sit-Stand.
+
+
+----------------------------------------------------------------
+5. PILARES DE CONTENIDO (MARKETING B2B Y MULTICANAL)
+----------------------------------------------------------------
+
+PILAR 1 — EVIDENCIA BIOMECÁNICA Y REGULATORIA (40% del contenido)
+Qué es: Educación ejecutiva sobre salud ocupacional, prevención de LER/DORT, fatiga estática y cumplimiento de la norma NR-17 / ABERGO.
+Formatos: Artículos de blog (Taranis Black Labs), infografías de datos en LinkedIn, whitepapers y newsletters B2B.
+
+PILAR 2 — INGENIERÍA DE PRODUCTO Y DISEÑO (35% del contenido)
+Qué es: Demostración técnica de las líneas ErgoPro, SmartDesk y Silence, detallando materiales, acústica (32 dB) y ergonomía activa.
+Formatos: Carruseles educativos en Instagram, videos cortos de demostración de mecanismos en Reels/TikTok, fichas técnicas.
+
+PILAR 3 — ROI CORPORATIVO Y CASOS DE IMPLEMENTACIÓN (25% del contenido)
+Qué es: Impacto financiero de la ergonomía en la reducción del ausentismo, mejora de concentración (estado de flow) y modernización de oficinas.
+Formatos: Publicaciones ejecutivas para C-Level en LinkedIn, correos de nutrición consultiva para leads B2B.
+
+REGLA DE ORO DEL CONTENIDO TARANIS BLACK
+Educar con rigor técnico antes de cotizar. Cada pieza debe aportar un dato verificable o resolver un dolor operativo concreto antes de invitar a una consultoría ergonómica.
+
+
+----------------------------------------------------------------
+6. MÉTRICAS DE ÉXITO Y GOBERNANZA DE IA
+----------------------------------------------------------------
+
+MÉTRICAS OPERATIVAS DEL EQUIPO DE MARKETING (4 PERSONAS)
+- Reducción del 80% en retrabajos de edición interna mediante el Agente Auditor de Tono.
+- Reducción del 75% en tiempos de producción multicanal mediante el Asistente Multiplicador de Contenido Semilla.
+- Tiempos de respuesta en canales digitales por debajo de las 24 horas.
+- Incremento del 30% en tráfico orgánico calificado hacia el blog corporativo.
+
+GOBERNANZA Y CUMPLIMIENTO NORMATIVO (OBLIGATORIO PARA ASISTENTES)
+- Uso exclusivo en entornos empresariales autorizados (Google Gemini 4 Argon y Google Gemini 4 Hydrogen). Prohibido el uso de cuentas gratuitas o personales.
+- Supervisión humana obligatoria (Human-in-the-Loop) previa a cualquier publicación externa.
+- Anonimización estricta de datos personales y cumplimiento de la Ley 25.326 (Argentina), LGPD (Brasil) y estándares RGPD / ISO/IEC 42001.
+
+
+----------------------------------------------------------------
+7. LO QUE NUNCA COMUNICAR SOBRE LA MARCA
+----------------------------------------------------------------
+
+- Taranis Black no compite por precio bajo ni ofrece liquidaciones masivas.
+- Taranis Black no vende mobiliario genérico de "confort pasivo".
+- Taranis Black no realiza promesas médicas curativas ni afirmaciones sin respaldo NR-17 / ISO.
+- Taranis Black no altera especificaciones técnicas, precios ni condiciones comerciales oficiales del Catálogo 2026.
+- Taranis Black no utiliza lenguaje informal, coloquial o sensacionalista.
+
+
+================================================================
+FIN DEL DOCUMENTO — Taranis Black Briefing de Marca v1.0
+================================================================
