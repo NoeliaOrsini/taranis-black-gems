@@ -99,9 +99,9 @@ taranis-black-gems/
 ├── architecture/
 │   └── diagrama-flujo.md
 └── assets/
-    ├── silla.jfif
-    ├── escritorio.jfif
-    └── cabina.jfif
+    ├── silla.jpg
+    ├── escritorio.jpg
+    └── cabina.jpg
 ```
 
 ---
@@ -110,15 +110,18 @@ taranis-black-gems/
 
 ### Imagen 1 (LinkedIn / 16:9)
 **Silla ErgoPro Executive** en oficina minimalista con mesh negro y base de aluminio pulido.  
-Archivo: [`assets/silla.jpg`](assets/silla.jpg)
+
+![Silla ErgoPro Executive](assets/silla.jpg)
 
 ### Imagen 2 (Instagram / 4:5)
 **Escritorio elevable SmartDesk Pro Dual 160** con tapa de roble FSC y panel táctil LED en uso Sit-Stand.  
-Archivo: [`assets/escritorio.jpg`](assets/escritorio.jpg)
+
+![SmartDesk Pro Dual](assets/escritorio.jpg)
 
 ### Imagen 3 (Horizontal / 16:9)
 **Cabina acústica modular Taranis Silence Quad** con vidrio doble laminado y estructura en grafito mate.  
-Archivo: [`assets/cabina.jpg`](assets/cabina.jpg)
+
+![Cabina Silence Quad](assets/cabina.jpg)
 
 Documentación completa de los user prompts + responses de la Gema Director Creativo:  
 [`examples/prompts-imagenes-director-creativo.md`](examples/prompts-imagenes-director-creativo.md)
@@ -137,16 +140,42 @@ Documentación completa de los user prompts + responses de la Gema Director Crea
 
 ## 🔒 Gobernanza
 
-- Uso **exclusivo** de entornos Enterprise (Google Gemini Enterprise)
-- **Human-in-the-Loop** obligatorio antes de cualquier publicación
-- Prohibido cargar datos personales sin anonimizar
-- Cumplimiento de **Ley 25.326** (Argentina), **LGPD**, **RGPD**, derechos **ARCO**, transparencia y mitigación de sesgos (ver detalle completo en `docs/politica-gobernanza-etica.md`)
+Se establece una **Política de Uso Responsable de IA** alineada a los principios de la OECD y la norma ISO/IEC 42001 (transparencia, equidad, seguridad y accountability). 
+
+Por aplicación rige la **Ley 25.326** de Protección de los Datos Personales (Argentina – AAIP). En concordancia, se aplica también la **LGPD** de Brasil, por ser el país donde Taranis Black produce y comercializa en el mercado local. Como estándar de máxima exigencia se adopta además una visión de la normativa europea (**RGPD**, **LOPD-GDD** y el enfoque basado en riesgos del **EU AI Act**).
+
+El protocolo completo es de lectura y suscripción obligatoria por todos los empleados y equipo directivo.
+
+### Qué se permite
+- Usar exclusivamente Google Gemini Enterprise (modelo vigente al momento de la suscripción) y los asistentes corporativos aprobados (Gems/Skills oficiales) alimentados con datos catalogados y validados.
+- Emplear la IA como copiloto para auditoría de tono, generación de borradores multicanal e investigación de mercado.
+- Aplicar siempre supervisión humana (Human-in-the-Loop) antes de publicar.
+
+### Qué se prohíbe
+- Usar herramientas de IA gratuitas, públicas o cuentas personales para información comercial de Taranis Black.
+- Ingresar datos personales sin anonimización previa.
+- Cargar información confidencial del negocio (márgenes, precios B2B, contratos, PI) en modelos públicos.
+- Publicar contenido generado por IA sin revisión humana.
+- Utilizar afirmaciones médicas/ergonómicas no respaldadas por NR-17, ABERGO, ANSI/BIFMA o ISO 23351-1.
+
+### Riesgos principales y mitigación
+- **Privacidad y fuga de datos** → Se respetan los derechos ARCO. Mitigación: anonimización obligatoria + operación exclusiva en entornos Enterprise.
+- **Sesgos** (por datos incompletos, desactualizados o poco diversos) → Mitigación: trazabilidad, catalogación semántica (DAMA DMBOK + ISO 42001) y actualización semestral de las bases RAG.
+- **Alucinaciones técnicas** → Mitigación: control estricto de palabras prohibidas + validación humana cruzada con informes técnicos NR-17.
+
+### Comité de Gobernanza de IA
+1. Líder de Marketing y Contenidos  
+2. Especialista Legal / Compliance y DPO  
+3. Referente de TI / Datos  
+4. Representante de Dirección Ejecutiva  
+
+Auditorías: control continuo (Human-in-the-Loop) + auditoría formal trimestral (ciclo PDCA – ISO/IEC 42001).
+
+Detalle completo en: [`docs/politica-gobernanza-etica.md`](docs/politica-gobernanza-etica.md)
 
 ---
 
 **Autora**: Noelia Natalia María Orsini  
-Desarrolladora Backend - Abogada - Counselor 
+Desarrolladora Backend · Abogada · Counselor  
 
----
-
-
+**Cohorte**: G11 · Alura / StartSe
