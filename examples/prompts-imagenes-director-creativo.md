@@ -18,7 +18,7 @@ Necesito una fotografía de producto para LinkedIn en formato 16:9 de la silla E
 - **PROMPT DE GENERACIÓN (Inglés — Listo para copiar):**  
 `Architectural commercial product photography of a sleek matte black ergonomic executive office chair + breathable German thermoplastic mesh backrest, dynamic 3D articulated lumbar support, 4D armrests, and a polished aluminum five-star base + positioned in a minimalist contemporary corporate office with smooth exposed concrete walls, light gray architectural accents, and a clean FSC oak wood desk with a sleek laptop in the softly blurred background + diffused natural daylight streaming through large floor-to-ceiling windows, crisp technical focus on the mesh texture and lumbar mechanism + shallow depth of field, shot on full-frame camera 50mm lens, photorealistic, high-end B2B corporate aesthetic + 16:9 aspect ratio --no clutter, messy cables, cheap plastic, bright red, stock photo smile, cartoon, 3d render look`
 
-**Archivo de imagen:** `assets/silla.jfif`
+**Archivo de imagen:** `assets/silla.jpg`
 
 ---
 
@@ -36,7 +36,7 @@ Ahora generá una imagen en formato 4:5 para Instagram Feed mostrando un desarro
 - **PROMPT DE GENERACIÓN (Inglés — Listo para copiar):**  
 `A 31-year-old Latin American male senior software developer with authentic natural features, wearing a smart-casual dark charcoal sweater and tailored trousers, standing in a healthy upright ergonomic posture working at a raised electric sit-stand desk, the SmartDesk Pro Dual 160 featuring a natural FSC certified oak wood desktop and a sleek matte black steel dual-leg frame with a subtle illuminated LED touch height control panel on the front edge + minimalist clean workstation with a sleek ultrawide monitor, minimalist laptop, and a matte black ceramic mug, zero messy cables + modern hybrid architectural workspace with smooth light gray concrete walls, off-white surfaces, and large floor-to-ceiling windows + soft diffused natural daylight coming from the side, shallow depth of field with gentle bokeh + editorial architectural corporate photography, shot on full-frame 50mm lens, natural skin texture, photorealistic, 4:5 vertical format --no clutter, messy cables, cheap plastic, bright red, stock photo smile, cartoon, 3d render look`
 
-**Archivo de imagen:** `assets/escritorio.jfif`
+**Archivo de imagen:** `assets/escritorio.jpg`
 
 ---
 
@@ -54,4 +54,4 @@ Ahora, Creá una imagen horizontal 16:9 de la cabina acústica modular Taranis S
 - **PROMPT DE GENERACIÓN (Inglés — Listo para copiar):**  
 `Cinematic architectural photography of the standalone modular acoustic booth, Taranis Silence Quad, installed within an expansive, contemporary open-plan corporate office. The horizontal 16:9 image focuses sharply on the booth, positioned slightly off-center. The booth features a robust matte graphite architectural steel frame (#2C2C2E). Massive, crystal-clear double laminated glass panels make up the front and side walls, making the rich, warm FSC certified natural oak wood interior lining visible. The wood interior is softly lit by integrated warm LED strips (3500K). Polished aluminum handles and hinges are visible on the sliding glass door. The open-office background is a gentle bokeh of minimalist SmartDesk workstations with ErgoPro Core chairs and large floor-to-ceiling windows showing a blurred metropolitan skyline. Soft, diffused daylight floods the scene from the right, highlighting the textures. Shot on a full-frame camera with a 35mm f/2.8 lens. Sharp focus on the booth's technical details and materials. Professional, clean, and high-end B2B corporate aesthetic. --no clutter, messy cables, cheap plastic, bright red, stock photo smile, cartoon, 3d render look, discount signs, busy people.`
 
-**Archivo de imagen:** `assets/cabina.jfif`
+**Archivo de imagen:** `assets/cabina.jpg`
