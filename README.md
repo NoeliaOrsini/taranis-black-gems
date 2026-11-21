@@ -84,7 +84,7 @@ taranis-black-gems/
 ├── docs/
 │   ├── taranis_black_tono_de_voz_es_txt.txt
 │   ├── taranis_black_briefing_de_marca_es_txt.txt
-│   └── politica-gobernanza-etica.md
+│   └── protocolo-uso-etico-ia-proteccion-datos.md
 ├── prompts/
 │   ├── auditor-de-tono-de-voz.md
 │   ├── multiplicador-de-contenido.md
@@ -171,7 +171,7 @@ El protocolo completo es de lectura y suscripción obligatoria por todos los emp
 
 Auditorías: control continuo (Human-in-the-Loop) + auditoría formal trimestral (ciclo PDCA – ISO/IEC 42001).
 
-Detalle completo en: [`docs/politica-gobernanza-etica.md`](docs/politica-gobernanza-etica.md)
+Detalle completo en: [`docs/protocolo-uso-etico-ia-proteccion-datos.md`](docs/protocolo-uso-etico-ia-proteccion-datos.md)
 
 ---
 
