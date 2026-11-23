@@ -175,6 +175,18 @@ Detalle completo en: [`docs/protocolo-uso-etico-ia-proteccion-datos.md`](docs/pr
 
 ---
 
+## 🎬 Video de producto generado
+
+A partir de las imágenes producidas por el **Director Creativo** (ErgoPro Executive, SmartDesk Pro Dual 160 y Silence Quad), se generó un video de producto en doble postura, animado en Google AI Studio con **Gemini 4 Hydrogen**, ajustando tiempos de lectura y con música estilo Showroom.
+
+El video se integró con el trabajo de las Gems de **tono de voz** y **multiplicador multicanal**: el contenido y la narrativa siguen los pilares del Manual de Identidad Verbal y las adaptaciones generadas por el Multiplicador, manteniendo coherencia de marca y rigor técnico (NR-17).
+
+Todo el proceso pasó por validación humana (**Human-in-the-Loop**) antes de su versión final.
+
+**Ver video:** [Video de producto Taranis Black](https://drive.google.com/file/d/16k78u8w4C2OO_0LjUnmrBvT4hDUbCZaw/view?usp=sharing)
+
+---
+
 **Autora**: Noelia Natalia María Orsini  
 Desarrolladora Backend · Abogada · Counselor  
 
