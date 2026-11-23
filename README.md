@@ -189,5 +189,3 @@ Todo el proceso pasó por validación humana (**Human-in-the-Loop**) antes de su
 
 **Autora**: Noelia Natalia María Orsini  
 Desarrolladora Backend · Abogada · Counselor  
-
-**Cohorte**: G11 · Alura / StartSe
